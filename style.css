@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+#apps {
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(#49BABA 0%, #497EBA 100%);
+    color: white;
+}
+.line {
+    background-color: white;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+#games {
+        width: 100%;
+    height: 800px;
+    background: linear-gradient(#eb3483 0%, #eba834 100%);
+    color: white; 
+}
+img {
+    transition: transform .2;
+}
+img:hover{
+    transform: scale(0.9);
+}
